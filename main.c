@@ -7,8 +7,8 @@ int main()
     //NO 1
     double DP , OP;
     printf("\e[1mNO.1\e[0m\n");
-    printf("ENTER THE DISCOUNT PERCENTAGE: "); scanf("%lf" , &DP);
-    printf("ENTER THE ORIGINAL PRICE: "); scanf("%lf" , &OP);
+    printf("ENTER THE NEWER DISCOUNT PERCENTAGE: "); scanf("%lf" , &DP);
+    printf("ENTER THE NEWER ORIGINAL PRICE: "); scanf("%lf" , &OP);
     printf("-------------------------------\n");
     CalculateSalesPrice(OP , DP);
 
