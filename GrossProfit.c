@@ -3,7 +3,7 @@
 
 
 void grossProfit(){
-float salesVolume = 2400000 , COGS = 160000;
+float salesVolume = 350000 , COGS = 200000;
 float grossProfit = salesVolume - COGS;
-printf("\e[1mNO.3\e[0m:  THE GROSS PROFIT IS %.3f" , grossProfit);
+printf("\e[1mNO.3\e[0m:  NEW THE GROSS PROFIT IS %.3f" , grossProfit);
 }
