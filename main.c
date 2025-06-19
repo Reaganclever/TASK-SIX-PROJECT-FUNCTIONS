@@ -20,7 +20,7 @@ int main()
      grossProfit();
 
      //NO 4
-     calculateTheReturnOnInvestiment(1300000 , 1500000);
+     calculateTheReturnOnInvestiment(201000 , 3500000);
 
      //NO 5
      calculateMonthlyLoanPayment();
